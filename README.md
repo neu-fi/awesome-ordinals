@@ -11,7 +11,7 @@
 ## Learning
 
 ### Documentations
- * https://docs.ordinals.com/
+ * https://docs.ordinals.com
 
 ### Explanatory videos
  * https://www.youtube.com/watch?v=mJr8yUf3dYk
@@ -36,12 +36,15 @@
  * https://ordinalswallet.com
 
 ### Wallets
- * https://nosft.xyz
+ * [Nosft](https://nosft.xyz)
 
 ## Official communities
- * https://discord.com/invite/87cjuz4FYg
- * https://t.me/+UOg5Lz1CzAthMWU5
+ * [Discord](https://discord.com/invite/87cjuz4FYg)
+ * [Telegram](https://t.me/+UOg5Lz1CzAthMWU5)
 
+## Ordinals
+### Directories
+ * [Rare Ordinals](http://rareordinal.directory)
 
 * * *
 
