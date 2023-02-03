@@ -29,6 +29,9 @@
  * https://www.youtube.com/watch?v=MC_haVa6N3I
  * https://www.youtube.com/watch?v=j5V33kV3iqo
 
+### Blog posts
+ * https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions
+
 ## Tools
 
 ### Explorers
