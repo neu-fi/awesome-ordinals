@@ -1,6 +1,6 @@
 
 <img src="https://ordinals.com/content/765cf24db22df4d7bae1cd12e5ee4780dc263486e426d8d1758eaa0515fa6fcei0"
-     align="right" width="75"/>
+     align="right" width="110"/>
 
 # Awesome Ordinals
 
