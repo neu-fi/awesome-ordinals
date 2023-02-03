@@ -42,7 +42,7 @@
  * [Discord](https://discord.com/invite/87cjuz4FYg)
  * [Telegram](https://t.me/+UOg5Lz1CzAthMWU5)
 
-## Ordinals
+## Inscriptions
 ### Directories
  * [Rare Ordinals](http://rareordinal.directory)
 
