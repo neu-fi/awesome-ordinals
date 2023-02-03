@@ -8,12 +8,17 @@ Feel free to open PRs. More titles will be added.
 ### Documentations
  * https://docs.ordinals.com/
 
+### Explanatory videos
+ * https://www.youtube.com/watch?v=mJr8yUf3dYk
+ * https://www.youtube.com/watch?v=JGA1mJm4tQk
+
 ### Podcasts
  * https://youtu.be/RBIYrC5y4iw
  * https://open.spotify.com/episode/01ThF9LbPLyWpn4Hauh7jM?si=gN-wYtPBT56MA7u25F00dg 
  * https://stephanlivera.com/episode/456/
  * https://www.coindesk.com/podcasts/the-breakdown-with-nlw/a-primer-on-the-debate-around-ordinal-inscriptions-aka-bitcoin-nfts/
  * https://open.spotify.com/episode/6LZ5UiY24g6ROS2t8FRBCu?si=QkPK6la6S5ykI3WdvL4Kjw
+ * https://www.youtube.com/watch?v=rSS0O2KQpsI
  
 ### Workshops
  * https://www.youtube.com/watch?v=MC_haVa6N3I
