@@ -34,6 +34,9 @@
 
 ## Tools
 
+### Analytics
+ * https://dune.com/dataalways/ordinals
+
 ### Explorers
  * https://ordinals.com
  * https://ordinalswallet.com
