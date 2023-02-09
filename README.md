@@ -34,8 +34,8 @@
 ## Tools
 
 ### Creator tools
-* [Gamma.io Inscription creator](https://gamma.io/ordinals)
-* [OrdinalsBot Inscription creator](https://ordinalsbot.com/)
+* [gamma.io/ordinals](https://gamma.io/ordinals)
+* [ordinalsbot.com](https://ordinalsbot.com/)
 
 ### Analytics
  * https://dune.com/dataalways/ordinals
