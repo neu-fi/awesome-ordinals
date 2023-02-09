@@ -1,4 +1,3 @@
-
 <img src="https://ordinals.com/content/765cf24db22df4d7bae1cd12e5ee4780dc263486e426d8d1758eaa0515fa6fcei0"
      align="right" width="110"/>
 
@@ -34,6 +33,10 @@
 
 ## Tools
 
+### Creator tools
+* [Gamma.io Inscription creator](https://gamma.io/ordinals)
+* [OrdinalsBot Inscription creator](https://ordinalsbot.com/)
+
 ### Analytics
  * https://dune.com/dataalways/ordinals
 
@@ -44,16 +47,19 @@
 ### Wallets
  * [Nosft](https://nosft.xyz)
 
+### Other
+* [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
+
 ## Official communities
  * [Discord](https://discord.com/invite/87cjuz4FYg)
  * [Telegram](https://t.me/+UOg5Lz1CzAthMWU5)
 
 ## Inscriptions
+
 ### Directories
  * [Rare Ordinals](http://rareordinal.directory)
 
 * * *
-
 
 ## Contributing
 All contributions are welcome. Feel free to open PRs on adding new content or categories.
