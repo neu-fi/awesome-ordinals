@@ -31,6 +31,10 @@
 ### Blog posts
  * https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions
 
+## Resources
+
+### Inscriptions
+ * [ordinalhub.com](https://www.ordinalhub.com/)
 ## Tools
 
 ### Creator tools
