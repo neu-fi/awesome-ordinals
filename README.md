@@ -34,6 +34,7 @@
 ## Resources
 
 ### Inscriptions
+ * https://ordinalsdirectory.com/
  * [ordinalhub.com](https://www.ordinalhub.com/)
 ## Tools
 
