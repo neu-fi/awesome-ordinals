@@ -54,6 +54,7 @@
 
 ### Other
 * [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
+* [Ordinals HTTP API](https://ordapi.xyz)
 
 ## Official communities
  * [Discord](https://discord.com/invite/87cjuz4FYg)
