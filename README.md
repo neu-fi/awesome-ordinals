@@ -15,6 +15,7 @@
 ### Explanatory videos
  * https://www.youtube.com/watch?v=mJr8yUf3dYk
  * https://www.youtube.com/watch?v=JGA1mJm4tQk
+ * How To Inscribe Digital Artifacts using Ord (https://www.youtube.com/watch?v=tdC8kmjn5N0)
 
 ### Podcasts
  * https://youtu.be/RBIYrC5y4iw
