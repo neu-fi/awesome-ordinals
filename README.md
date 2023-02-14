@@ -66,6 +66,16 @@
 ### Directories
  * [Rare Ordinals](http://rareordinal.directory)
 
+## Trading
+
+### Non-custodial
+
+
+### Custodial
+* [Emblem Vault](emblem.finance)
+* [generative.xyz](generative.xyz)
+
+
 * * *
 
 ## Contributing
