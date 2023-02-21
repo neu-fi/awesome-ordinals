@@ -3,13 +3,13 @@
 
 # Awesome Ordinals
 
-##### A curated list of ordinals and inscriptions ecosystem
+**A curated list of projects in the ordinals and inscriptions ecosystem**
 
 ---
 
 ## Learning
 
-### Documentations
+### Documentation
 
 - https://docs.ordinals.com
 
@@ -93,12 +93,12 @@
 
 ## Contributing
 
-All contributions are welcome. Feel free to open PRs on adding new content or categories.
+All contributions are welcome. Feel free to open PRs to add new content or categories.
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-[Neufi Ordinals Lab](https://twitter.com/OrdinalsLab) has dedicated the work to the public domain by waiving all of tehir rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+[Neufi Ordinals Lab](https://twitter.com/OrdinalsLab) has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
