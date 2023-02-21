@@ -7,28 +7,29 @@
 
 **A curated list of projects in the ordinals and inscriptions ecosystem**
 
-- [Learning](#learning)
-  - [Documentation](#documentation)
-  - [Explanatory videos](#explanatory-videos)
-  - [Podcasts](#podcasts)
-  - [Workshops](#workshops)
-  - [Blog posts](#blog-posts)
-- [Resources](#resources)
-  - [Inscriptions](#inscriptions)
-- [Tools](#tools)
-  - [Creator tools](#creator-tools)
-  - [Analytics](#analytics)
-  - [Explorers](#explorers)
-  - [Wallets](#wallets)
-  - [Other](#other)
-- [Official communities](#official-communities)
-- [Inscriptions](#inscriptions-1)
-  - [Directories](#directories)
-- [Trading](#trading)
-  - [Non-custodial](#non-custodial)
-  - [Custodial](#custodial)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome Ordinals](#awesome-ordinals)
+  - [Learning](#learning)
+    - [Documentation](#documentation)
+    - [Explanatory videos](#explanatory-videos)
+    - [Podcasts](#podcasts)
+    - [Workshops](#workshops)
+    - [Blog posts](#blog-posts)
+  - [Resources](#resources)
+    - [Inscriptions](#inscriptions)
+  - [Tools](#tools)
+    - [Creator tools](#creator-tools)
+    - [Analytics](#analytics)
+    - [Explorers](#explorers)
+    - [Wallets](#wallets)
+    - [Other](#other)
+  - [Official communities](#official-communities)
+  - [Inscriptions](#inscriptions-1)
+    - [Directories](#directories)
+  - [Trading](#trading)
+    - [Non-custodial](#non-custodial)
+    - [Custodial](#custodial)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ---
 
@@ -36,54 +37,54 @@
 
 ### Documentation
 
-- https://docs.ordinals.com
+- [Official Ordinals Documentation](https://docs.ordinals.com)
 
 ### Explanatory videos
 
-- https://www.youtube.com/watch?v=mJr8yUf3dYk
-- https://www.youtube.com/watch?v=JGA1mJm4tQk
-- [How To Inscribe Digital Artifacts using Ord](https://www.youtube.com/watch?v=tdC8kmjn5N0)
+- [Trader University: Will Ordinals and NFTs Destroy Bitcoin?](https://www.youtube.com/watch?v=mJr8yUf3dYk)
+- [Trader University: Ordinals And The Coming Attacks On Bitcoin](https://www.youtube.com/watch?v=JGA1mJm4tQk)
+- [NFTpaz: How To Inscribe Digital Artifacts using Ord](https://www.youtube.com/watch?v=tdC8kmjn5N0)
 
 ### Podcasts
 
-- https://youtu.be/RBIYrC5y4iw
-- https://open.spotify.com/episode/01ThF9LbPLyWpn4Hauh7jM?si=gN-wYtPBT56MA7u25F00dg
-- https://stephanlivera.com/episode/456/
-- https://www.coindesk.com/podcasts/the-breakdown-with-nlw/a-primer-on-the-debate-around-ordinal-inscriptions-aka-bitcoin-nfts/
-- https://open.spotify.com/episode/6LZ5UiY24g6ROS2t8FRBCu?si=QkPK6la6S5ykI3WdvL4Kjw
-- https://www.youtube.com/watch?v=rSS0O2KQpsI
+- [Hell Money Podcast: ORDINAL INSCRIPTIONS: NFTS ON BITCOIN](https://youtu.be/RBIYrC5y4iw)
+- [Crazy Wisdom: What does it mean to build NFT on the BTC blockchain? - Casey Rodarmor](https://open.spotify.com/episode/01ThF9LbPLyWpn4Hauh7jM?si=gN-wYtPBT56MA7u25F00dg)
+- [Stephan Livera: SLP456 CASEY RODARMOR WHAT ARE ORDINALS?](https://stephanlivera.com/episode/456/)
+- [The Breakdown, with NLW: A Primer on the Debate Around Ordinal Inscriptions, aka Bitcoin NFTs](https://www.coindesk.com/podcasts/the-breakdown-with-nlw/a-primer-on-the-debate-around-ordinal-inscriptions-aka-bitcoin-nfts/)
+- [Vancouver Bitcoiners: What are Ordinals? With Casey Rodarmor](https://open.spotify.com/episode/6LZ5UiY24g6ROS2t8FRBCu?si=QkPK6la6S5ykI3WdvL4Kjw)
+- [Hell Money Podcast: Ordinal Theory Explained: Satoshi Serial Numbers and NFTs on Bitcoin](https://www.youtube.com/watch?v=rSS0O2KQpsI)
 
 ### Workshops
 
-- https://www.youtube.com/watch?v=MC_haVa6N3I
-- https://www.youtube.com/watch?v=j5V33kV3iqo
+- [PlebLab: Ordinals Workshop with Casey Rodarmor](https://www.youtube.com/watch?v=MC_haVa6N3I)
+- [Base58: Ordinal Art: Mint Your own NFTs on Bitcoin w/ `@rodarmor`](https://www.youtube.com/watch?v=j5V33kV3iqo)
 
 ### Blog posts
 
-- https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions
+- [pourteaux: Illegitimate bitcoin transactions](https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions)
 
 ## Resources
 
 ### Inscriptions
 
-- https://ordinalsdirectory.com/
-- [ordinalhub.com](https://www.ordinalhub.com/)
+- [Ordinals Directory](https://ordinalsdirectory.com/)
+- [OrdinalHub](https://www.ordinalhub.com/)
 
 ## Tools
 
 ### Creator tools
 
-- [gamma.io/ordinals](https://gamma.io/ordinals)
-- [ordinalsbot.com](https://ordinalsbot.com/)
+- [Gamma](https://gamma.io/ordinals)
+- [OrdinalsBot](https://ordinalsbot.com/)
 
 ### Analytics
 
-- https://dune.com/dataalways/ordinals
+- [Dune Dashboard `@dataalways` / Ordinals - Inscriptions on Bitcoin](https://dune.com/dataalways/ordinals)
 
 ### Explorers
 
-- https://ordinals.com
-- https://ordinalswallet.com
+- [Ordinals.com](https://ordinals.com)
+- [Ordinals Wallet](https://ordinalswallet.com)
 
 ### Wallets
 
@@ -103,7 +104,7 @@
 
 ### Directories
 
-- [Rare Ordinals](http://rareordinal.directory)
+- [Rare Ordinal Directory](https://rareordinal.directory)
 
 ## Trading
 
@@ -111,8 +112,8 @@
 
 ### Custodial
 
-- [Emblem Vault](emblem.finance)
-- [generative.xyz](generative.xyz)
+- [Emblem Vault](https://emblem.finance)
+- [Generative.xyz](https://generative.xyz)
 
 ---
 
