@@ -44,6 +44,8 @@
 - [Trader University: Will Ordinals and NFTs Destroy Bitcoin?](https://www.youtube.com/watch?v=mJr8yUf3dYk)
 - [Trader University: Ordinals And The Coming Attacks On Bitcoin](https://www.youtube.com/watch?v=JGA1mJm4tQk)
 - [NFTpaz: How To Inscribe Digital Artifacts using Ord](https://www.youtube.com/watch?v=tdC8kmjn5N0)
+- [Gamma: How to Create a Bitcoin Ordinal Inscription NFT on Gamma](https://www.youtube.com/watch?v=2HkD9EbmjlE)
+- [Xverse: How to Inscribe Bitcoin Ordinals with Xverse Wallet](https://www.youtube.com/watch?v=ak0xXiiy8OI)
 
 ### Podcasts
 
@@ -62,6 +64,10 @@
 ### Blog posts
 
 - [pourteaux: Illegitimate bitcoin transactions](https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions)
+- [Decrypt: What Are Ordinals? A Beginner's Guide to Bitcoin NFTs](https://decrypt.co/resources/what-are-ordinals-a-beginners-guide-to-bitcoin-nfts)
+- [Hiro: What Are Bitcoin Ordinals?](https://www.hiro.so/blog/what-are-bitcoin-ordinals)
+- [Xverse: How to Inscribe Ordinal Bitcoin NFTs: 5 Easy Steps](https://www.xverse.app/blog/how-to-inscribe-ordinal-bitcoin-nfts-5-easy-steps)
+- [nftnow: Bitcoin NFTs? Ordinals Inscriptions Explained (Finding, Buying, & More)](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)
 
 ## Resources
 
@@ -76,6 +82,8 @@
 
 - [Gamma](https://gamma.io/ordinals)
 - [OrdinalsBot](https://ordinalsbot.com/)
+- [Ordinals Wallet](https://ordinalswallet.com)
+- [OrdSwap](https://ordswap.io/)
 
 ### Analytics
 
@@ -89,6 +97,9 @@
 ### Wallets
 
 - [Nosft](https://nosft.xyz)
+- [Hiro](https://wallet.hiro.so)
+- [Xverse](https://xverse.app)
+- [OrdSwap](https://ordswap.io/)
 
 ### Other
 
@@ -109,6 +120,8 @@
 ## Trading
 
 ### Non-custodial
+
+- [OrdSwap](https://ordswap.io/)
 
 ### Custodial
 
