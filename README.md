@@ -68,6 +68,7 @@
 - [Hiro: What Are Bitcoin Ordinals?](https://www.hiro.so/blog/what-are-bitcoin-ordinals)
 - [Xverse: How to Inscribe Ordinal Bitcoin NFTs: 5 Easy Steps](https://www.xverse.app/blog/how-to-inscribe-ordinal-bitcoin-nfts-5-easy-steps)
 - [nftnow: Bitcoin NFTs? Ordinals Inscriptions Explained (Finding, Buying, & More)](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)
+- [Bankless: How to Mint a Bitcoin NFT](https://newsletter.banklesshq.com/p/how-to-mint-a-bitcoin-nft)
 
 ## Resources
 
