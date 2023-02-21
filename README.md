@@ -5,84 +5,98 @@
 
 ##### A curated list of ordinals and inscriptions ecosystem
 
-* * *
+---
 
 ## Learning
 
 ### Documentations
- * https://docs.ordinals.com
+
+- https://docs.ordinals.com
 
 ### Explanatory videos
- * https://www.youtube.com/watch?v=mJr8yUf3dYk
- * https://www.youtube.com/watch?v=JGA1mJm4tQk
- * [How To Inscribe Digital Artifacts using Ord](https://www.youtube.com/watch?v=tdC8kmjn5N0)
+
+- https://www.youtube.com/watch?v=mJr8yUf3dYk
+- https://www.youtube.com/watch?v=JGA1mJm4tQk
+- [How To Inscribe Digital Artifacts using Ord](https://www.youtube.com/watch?v=tdC8kmjn5N0)
 
 ### Podcasts
- * https://youtu.be/RBIYrC5y4iw
- * https://open.spotify.com/episode/01ThF9LbPLyWpn4Hauh7jM?si=gN-wYtPBT56MA7u25F00dg 
- * https://stephanlivera.com/episode/456/
- * https://www.coindesk.com/podcasts/the-breakdown-with-nlw/a-primer-on-the-debate-around-ordinal-inscriptions-aka-bitcoin-nfts/
- * https://open.spotify.com/episode/6LZ5UiY24g6ROS2t8FRBCu?si=QkPK6la6S5ykI3WdvL4Kjw
- * https://www.youtube.com/watch?v=rSS0O2KQpsI
- 
+
+- https://youtu.be/RBIYrC5y4iw
+- https://open.spotify.com/episode/01ThF9LbPLyWpn4Hauh7jM?si=gN-wYtPBT56MA7u25F00dg
+- https://stephanlivera.com/episode/456/
+- https://www.coindesk.com/podcasts/the-breakdown-with-nlw/a-primer-on-the-debate-around-ordinal-inscriptions-aka-bitcoin-nfts/
+- https://open.spotify.com/episode/6LZ5UiY24g6ROS2t8FRBCu?si=QkPK6la6S5ykI3WdvL4Kjw
+- https://www.youtube.com/watch?v=rSS0O2KQpsI
+
 ### Workshops
- * https://www.youtube.com/watch?v=MC_haVa6N3I
- * https://www.youtube.com/watch?v=j5V33kV3iqo
+
+- https://www.youtube.com/watch?v=MC_haVa6N3I
+- https://www.youtube.com/watch?v=j5V33kV3iqo
 
 ### Blog posts
- * https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions
+
+- https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions
 
 ## Resources
 
 ### Inscriptions
- * https://ordinalsdirectory.com/
- * [ordinalhub.com](https://www.ordinalhub.com/)
+
+- https://ordinalsdirectory.com/
+- [ordinalhub.com](https://www.ordinalhub.com/)
+
 ## Tools
 
 ### Creator tools
-* [gamma.io/ordinals](https://gamma.io/ordinals)
-* [ordinalsbot.com](https://ordinalsbot.com/)
+
+- [gamma.io/ordinals](https://gamma.io/ordinals)
+- [ordinalsbot.com](https://ordinalsbot.com/)
 
 ### Analytics
- * https://dune.com/dataalways/ordinals
+
+- https://dune.com/dataalways/ordinals
 
 ### Explorers
- * https://ordinals.com
- * https://ordinalswallet.com
+
+- https://ordinals.com
+- https://ordinalswallet.com
 
 ### Wallets
- * [Nosft](https://nosft.xyz)
+
+- [Nosft](https://nosft.xyz)
 
 ### Other
-* [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
-* [Ordinals HTTP API](https://ordapi.xyz)
+
+- [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
+- [Ordinals HTTP API](https://ordapi.xyz)
 
 ## Official communities
- * [Discord](https://discord.com/invite/87cjuz4FYg)
- * [Telegram](https://t.me/+UOg5Lz1CzAthMWU5)
+
+- [Discord](https://discord.com/invite/87cjuz4FYg)
+- [Telegram](https://t.me/+UOg5Lz1CzAthMWU5)
 
 ## Inscriptions
 
 ### Directories
- * [Rare Ordinals](http://rareordinal.directory)
+
+- [Rare Ordinals](http://rareordinal.directory)
 
 ## Trading
 
 ### Non-custodial
 
-
 ### Custodial
-* [Emblem Vault](emblem.finance)
-* [generative.xyz](generative.xyz)
 
+- [Emblem Vault](emblem.finance)
+- [generative.xyz](generative.xyz)
 
-* * *
+---
 
 ## Contributing
+
 All contributions are welcome. Feel free to open PRs on adding new content or categories.
 
-
 ## License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [Neufi Ordinals Lab](https://twitter.com/OrdinalsLab) has dedicated the work to the public domain by waiving all of tehir rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
