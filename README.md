@@ -1,9 +1,34 @@
 <img src="https://ordinals.com/content/765cf24db22df4d7bae1cd12e5ee4780dc263486e426d8d1758eaa0515fa6fcei0"
      align="right" width="110"/>
 
+<!-- omit in toc -->
+
 # Awesome Ordinals
 
 **A curated list of projects in the ordinals and inscriptions ecosystem**
+
+- [Learning](#learning)
+  - [Documentation](#documentation)
+  - [Explanatory videos](#explanatory-videos)
+  - [Podcasts](#podcasts)
+  - [Workshops](#workshops)
+  - [Blog posts](#blog-posts)
+- [Resources](#resources)
+  - [Inscriptions](#inscriptions)
+- [Tools](#tools)
+  - [Creator tools](#creator-tools)
+  - [Analytics](#analytics)
+  - [Explorers](#explorers)
+  - [Wallets](#wallets)
+  - [Other](#other)
+- [Official communities](#official-communities)
+- [Inscriptions](#inscriptions-1)
+  - [Directories](#directories)
+- [Trading](#trading)
+  - [Non-custodial](#non-custodial)
+  - [Custodial](#custodial)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
