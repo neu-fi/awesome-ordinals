@@ -74,6 +74,7 @@
 
 ### Inscriptions
 
+- [Ordynals](https://ordynals.com/)
 - [Ordinals Directory](https://ordinalsdirectory.com/)
 - [OrdinalHub](https://www.ordinalhub.com/)
 
@@ -116,6 +117,7 @@
 
 ### Directories
 
+- [Ordynals](https://ordynals.com)
 - [Rare Ordinal Directory](https://rareordinal.directory)
 
 ## Trading
