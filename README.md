@@ -28,6 +28,7 @@
   - [Trading](#trading)
     - [Non-custodial](#non-custodial)
     - [Custodial](#custodial)
+  - [Events & Conferences](#events)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -118,16 +119,28 @@
 
 - [Rare Ordinal Directory](https://rareordinal.directory)
 
-## Trading
+## Marketplace
 
 ### Non-custodial
 
 - [OrdSwap](https://ordswap.io/)
+- [OpenOrdex](https://openordex.org/)
+- [Ordinals Market](https://ordinals.market)
+- [Ordinals Cheap](https://ordinals.cheap)
 
 ### Custodial
 
 - [Emblem Vault](https://emblem.finance)
 - [Generative.xyz](https://generative.xyz)
+
+## Events & Conferences
+- [Ordinals Conference](https://ordinalsconference.com/
+))
+
+## Layer2's & Sidechains
+- [Stacks](https://www.stacks.co/)
+- [Rootstock](https://rootstock.io)
+
 
 ---
 
