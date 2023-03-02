@@ -96,7 +96,7 @@
 ### Explorers
 
 - [Ordinals.com](https://ordinals.com)
-- [Ordimint](https://explorer.ordimint.com/)
+- [Ordimint](http://explorer.ordimint.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 
 ### Wallets
