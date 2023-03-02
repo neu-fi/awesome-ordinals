@@ -137,7 +137,7 @@
 
 ## Events & Conferences
 - [Ordinals Conference](https://ordinalsconference.com/
-))
+)
 
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
