@@ -129,11 +129,12 @@
 - [OpenOrdex](https://openordex.org/)
 - [Ordinals Market](https://ordinals.market)
 - [Ordinals Cheap](https://ordinals.cheap)
+- [Generative.xyz](https://generative.xyz)
+
 
 ### Custodial
 
 - [Emblem Vault](https://emblem.finance)
-- [Generative.xyz](https://generative.xyz)
 
 ## Events & Conferences
 - [Ordinals Conference](https://ordinalsconference.com/
