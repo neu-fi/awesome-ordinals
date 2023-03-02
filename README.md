@@ -84,6 +84,7 @@
 ### Creator tools
 
 - [Gamma](https://gamma.io/ordinals)
+- [Ordimint](https://ordimint.com/)
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
@@ -95,6 +96,7 @@
 ### Explorers
 
 - [Ordinals.com](https://ordinals.com)
+- [Ordimint](https://explorer.ordimint.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 
 ### Wallets
@@ -103,6 +105,7 @@
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
+- [Ordimint](https://ordimint.com)
 
 ### Other
 
