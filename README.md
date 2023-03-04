@@ -87,6 +87,7 @@
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
+- [UniSat](https://unisat.io/inscribe)
 
 ### Analytics
 
@@ -96,6 +97,7 @@
 
 - [Ordinals.com](https://ordinals.com)
 - [Ordinals Wallet](https://ordinalswallet.com)
+- [UniSat](https://unisat.io)
 
 ### Wallets
 
@@ -103,6 +105,7 @@
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
+- [UniSat](https://unisat.io/download)
 
 ### Other
 
