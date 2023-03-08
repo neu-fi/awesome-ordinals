@@ -85,6 +85,7 @@
 ### Creator tools
 
 - [Gamma](https://gamma.io/ordinals)
+- [InscribeNOW](https://inscribenow.io/)
 - [Ordimint](https://ordimint.com/)
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
@@ -125,6 +126,7 @@
 
 ### Directories
 
+- [Ordsea](https://www.ordsea.io/)
 - [Ordynals](https://ordynals.com)
 - [Rare Ordinal Directory](https://rareordinal.directory)
 
