@@ -101,7 +101,6 @@
 ### Explorers
 
 - [Ordinals.com](https://ordinals.com)
-- [Ordimint](http://explorer.ordimint.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 
 ### Wallets
@@ -109,8 +108,7 @@
 - [Nosft](https://nosft.xyz)
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
-- [OrdSwap](https://ordswap.io/)
-- [Ordimint](https://ordimint.com)
+- [OrdSwap](https://ordswap.io)
 
 ### Other
 
