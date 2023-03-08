@@ -89,6 +89,7 @@
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
+- [UniSat](https://unisat.io/inscribe)
 
 ### Developer tools
 
@@ -108,12 +109,12 @@
 - [Nosft](https://nosft.xyz)
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
-- [OrdSwap](https://ordswap.io)
+- [OrdSwap](https://ordswap.io/)
+- [UniSat](https://unisat.io/download)
 
 ### Other
 
 - [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
-- [Ordinals HTTP API](https://ordapi.xyz)
 
 ## Official communities
 
@@ -143,8 +144,7 @@
 - [Emblem Vault](https://emblem.finance)
 
 ## Events & Conferences
-- [Ordinals Conference](https://ordinalsconference.com/
-)
+- [Ordinals Conference](https://ordinalsconference.com)
 
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
