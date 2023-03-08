@@ -18,6 +18,7 @@
     - [Inscriptions](#inscriptions)
   - [Tools](#tools)
     - [Creator tools](#creator-tools)
+    - [Developer tools](#developer-tools)
     - [Analytics](#analytics)
     - [Explorers](#explorers)
     - [Wallets](#wallets)
@@ -84,10 +85,15 @@
 ### Creator tools
 
 - [Gamma](https://gamma.io/ordinals)
+- [Ordimint](https://ordimint.com/)
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
 - [UniSat](https://unisat.io/inscribe)
+
+### Developer tools
+
+- [OrdAPI (Ordinals Metadata HTTP API)](https://ordapi.xyz/)
 
 ### Analytics
 
@@ -97,7 +103,6 @@
 
 - [Ordinals.com](https://ordinals.com)
 - [Ordinals Wallet](https://ordinalswallet.com)
-- [UniSat](https://unisat.io)
 
 ### Wallets
 
@@ -110,7 +115,6 @@
 ### Other
 
 - [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
-- [Ordinals HTTP API](https://ordapi.xyz)
 
 ## Official communities
 
@@ -140,8 +144,7 @@
 - [Emblem Vault](https://emblem.finance)
 
 ## Events & Conferences
-- [Ordinals Conference](https://ordinalsconference.com/
-)
+- [Ordinals Conference](https://ordinalsconference.com)
 
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
