@@ -95,6 +95,7 @@
 ### Developer tools
 
 - [OrdAPI (Ordinals Metadata HTTP API)](https://ordapi.xyz/)
+- [Nodeyez Scripts](https://github.com/vicariousdrama/nodeyez/blob/main/_docs) [[1](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-ordinals.md)] [[2](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-inscriptionmempool.md)]
 
 ### Analytics
 
