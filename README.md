@@ -18,6 +18,7 @@
     - [Inscriptions](#inscriptions)
   - [Tools](#tools)
     - [Creator tools](#creator-tools)
+    - [Developer tools](#developer-tools)
     - [Analytics](#analytics)
     - [Explorers](#explorers)
     - [Wallets](#wallets)
@@ -87,6 +88,10 @@
 - [OrdinalsBot](https://ordinalsbot.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
+
+### Developer tools
+
+- [OrdAPI (Ordinals Metadata HTTP API)](https://ordapi.xyz/)
 
 ### Analytics
 
