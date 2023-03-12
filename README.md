@@ -148,7 +148,7 @@
 - [Emblem Vault](https://emblem.finance)
 
 ## Events & Conferences
-- [Ordinals Conference](https://ordinalsconference.com)
+- [Ordinals 2023](https://ordinals2023.com/)
 
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
