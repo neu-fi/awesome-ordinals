@@ -105,6 +105,7 @@
 
 - [Ordinals.com](https://ordinals.com)
 - [Ordinals Wallet](https://ordinalswallet.com)
+- [Ordeets.com](https://ordeets.com)
 
 ### Wallets
 
