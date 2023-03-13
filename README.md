@@ -100,6 +100,7 @@
 ### Analytics
 
 - [Dune Dashboard `@dataalways` / Ordinals - Inscriptions on Bitcoin](https://dune.com/dataalways/ordinals)
+- [Ordeets.com](https://ordeets.com)
 
 ### Explorers
 
