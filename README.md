@@ -114,6 +114,7 @@
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
 - [UniSat](https://unisat.io/download)
+- [OrdinalSafe](https://ordinalsafe.xyz)
 
 ### Other
 
