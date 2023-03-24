@@ -115,6 +115,7 @@
 - [OrdSwap](https://ordswap.io/)
 - [UniSat](https://unisat.io/download)
 - [OrdinalSafe](https://ordinalsafe.xyz)
+- [XDEFI Wallet](https://www.xdefi.io/)
 
 ### Other
 
@@ -142,11 +143,15 @@
 - [Ordinals Market](https://ordinals.market)
 - [Ordinals Cheap](https://ordinals.cheap)
 - [Generative.xyz](https://generative.xyz)
-
+- [Magic Eden](https://magiceden.io/ordinals)
 
 ### Custodial
 
 - [Emblem Vault](https://emblem.finance)
+
+### Aggregators
+- [Ord Exchange](https://ord.exchange/)
+- [Ordinals Market](https://ordinals.market)
 
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
