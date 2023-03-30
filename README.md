@@ -91,6 +91,7 @@
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [OrdSwap](https://ordswap.io/)
 - [UniSat](https://unisat.io/inscribe)
+- [Bordify](https://bordify.xyz/)
 
 ### Developer tools
 - [Umbrel Ord indexer](https://apps.umbrel.com/app/ordinals)
