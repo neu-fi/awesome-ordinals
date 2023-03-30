@@ -104,6 +104,7 @@
 ### Explorers
 
 - [Ordinals.com](https://ordinals.com)
+- [Ordiscan](https://ordiscan.com)
 - [Ordinals Wallet](https://ordinalswallet.com)
 - [Ordeets.com](https://ordeets.com)
 
