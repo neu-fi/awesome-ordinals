@@ -154,6 +154,7 @@
 ### Aggregators
 - [Ord Exchange](https://ord.exchange/)
 - [Ordinals Market](https://ordinals.market)
+- [Best in Slot](https://bestinslot.xyz)
 
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
