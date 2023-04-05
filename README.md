@@ -119,6 +119,14 @@
 - [OrdinalSafe](https://ordinalsafe.xyz)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
+### Subreddit
+
+- [Bitcoin Ordinals](https://www.reddit.com/r/BitcoinOrdinals/) 
+
+### Wiki Pages 
+
+- [Fandom](https://bitcoinordinals.fandom.com/wiki/Category:Marketplaces)
+
 ### Other
 
 - [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
