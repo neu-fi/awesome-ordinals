@@ -119,7 +119,7 @@
 - [OrdinalSafe](https://ordinalsafe.xyz)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
-### Reddit Pages 
+### Subreddit
 
 - [Bitcoin Ordinals](https://www.reddit.com/r/BitcoinOrdinals/) 
 
