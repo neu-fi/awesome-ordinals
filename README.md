@@ -102,15 +102,15 @@
 
 - [Dune Dashboard `@dataalways` / Ordinals - Inscriptions on Bitcoin](https://dune.com/dataalways/ordinals)
 
-### Inscription Explorers
-- [Ordinals.com](https://ordinals.com)
-- [Ordiscan](https://ordiscan.com)
-- [Ordeets.com](https://ordeets.com)
-
 ### Collection Explorers
 - [Ordynals](https://ordynals.com/)
 - [OrdinalHub](https://www.ordinalhub.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
+
+### Inscription Explorers
+- [Ordinals.com](https://ordinals.com)
+- [Ordiscan](https://ordiscan.com)
+- [Ordeets.com](https://ordeets.com)
 
 ### Wallets
 
