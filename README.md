@@ -144,6 +144,18 @@
 - [Ordynals](https://ordynals.com)
 - [Rare Ordinal Directory](https://rareordinal.directory)
 
+## BRC-20
+
+### Resources
+- [BRC20 Experiment by @Domo](https://domo-2.gitbook.io/brc-20-experiment/)
+
+### Directories
+- [BRC-20 tokens](https://brc-20.io/)
+
+
+### Dev Tooling
+- [BRC-20 Indexer](https://github.com/Next-DAO/brc20_indexer)
+
 ## Marketplace
 
 ### Non-custodial
