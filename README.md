@@ -20,7 +20,8 @@
     - [Creator tools](#creator-tools)
     - [Developer tools](#developer-tools)
     - [Analytics](#analytics)
-    - [Explorers](#explorers)
+    - [Inscription Explorers](#explorers)
+    - [Collection Explorers](#collection-explorers)
     - [Wallets](#wallets)
     - [Other](#other)
   - [Official communities](#official-communities)
@@ -120,7 +121,6 @@
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
 - [XDEFI Wallet](https://www.xdefi.io/)
-
 
 ### Other
 
