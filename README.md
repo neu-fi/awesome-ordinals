@@ -112,12 +112,12 @@
 
 ### Wallets
 
+- [OrdinalSafe](https://ordinalsafe.xyz)
+- [UniSat](https://unisat.io/download)
 - [Nosft](https://nosft.xyz)
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
-- [UniSat](https://unisat.io/download)
-- [OrdinalSafe](https://ordinalsafe.xyz)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
 ### Subreddits
