@@ -75,11 +75,9 @@
 
 ## Resources
 
-### Inscriptions
+### Subreddits
 
-- [Ordynals](https://ordynals.com/)
-- [Ordinals Directory](https://ordinalsdirectory.com/)
-- [OrdinalHub](https://www.ordinalhub.com/)
+- [Bitcoin Ordinals](https://www.reddit.com/r/BitcoinOrdinals/) 
 
 ## Tools
 
@@ -103,12 +101,15 @@
 
 - [Dune Dashboard `@dataalways` / Ordinals - Inscriptions on Bitcoin](https://dune.com/dataalways/ordinals)
 
-### Explorers
-
+### Inscription Explorers
 - [Ordinals.com](https://ordinals.com)
 - [Ordiscan](https://ordiscan.com)
-- [Ordinals Wallet](https://ordinalswallet.com)
 - [Ordeets.com](https://ordeets.com)
+
+### Collection Explorers
+- [Ordynals](https://ordynals.com/)
+- [OrdinalHub](https://www.ordinalhub.com/)
+- [Ordinals Wallet](https://ordinalswallet.com)
 
 ### Wallets
 
@@ -120,13 +121,6 @@
 - [OrdSwap](https://ordswap.io/)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
-### Subreddits
-
-- [Bitcoin Ordinals](https://www.reddit.com/r/BitcoinOrdinals/) 
-
-### Wiki Pages 
-
-- [Fandom](https://bitcoinordinals.fandom.com/wiki/Category:Marketplaces)
 
 ### Other
 
@@ -171,10 +165,10 @@
 
 - [Emblem Vault](https://emblem.finance)
 
-### Aggregators
+### Marketplace Aggregators
+- [Best in Slot](https://bestinslot.xyz)
 - [Ord Exchange](https://ord.exchange/)
 - [Ordinals Market](https://ordinals.market)
-- [Best in Slot](https://bestinslot.xyz)
 
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
