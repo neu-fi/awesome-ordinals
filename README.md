@@ -26,6 +26,7 @@
   - [Official communities](#official-communities)
   - [Inscriptions](#inscriptions-1)
     - [Directories](#directories)
+  - [BRC-20](#brc-20)
   - [Trading](#trading)
     - [Non-custodial](#non-custodial)
     - [Custodial](#custodial)
@@ -150,8 +151,7 @@
 - [BRC20 Experiment by @Domo](https://domo-2.gitbook.io/brc-20-experiment/)
 
 ### Directories
-- [BRC-20 tokens](https://brc-20.io/)
-
+- [BRC-20 token stats](https://brc-20.io/)
 
 ### Dev Tooling
 - [BRC-20 Indexer](https://github.com/Next-DAO/brc20_indexer)
