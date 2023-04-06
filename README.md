@@ -22,6 +22,10 @@
     - [Analytics](#analytics)
     - [Explorers](#explorers)
     - [Wallets](#wallets)
+    - [Subbredits](#subbredits) 
+    - [Wiki Pages](#wiki-pages)
+    - [Ecosystem Map](#ecosystem-map)
+    - [Blogs](#blogs)
     - [Other](#other)
   - [Official communities](#official-communities)
   - [Inscriptions](#inscriptions-1)
@@ -112,12 +116,12 @@
 
 ### Wallets
 
-- [OrdinalSafe](https://ordinalsafe.xyz)
-- [UniSat](https://unisat.io/download)
 - [Nosft](https://nosft.xyz)
 - [Hiro](https://wallet.hiro.so)
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
+- [UniSat](https://unisat.io/download)
+- [OrdinalSafe](https://ordinalsafe.xyz)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
 ### Subreddits
@@ -127,6 +131,14 @@
 ### Wiki Pages 
 
 - [Fandom](https://bitcoinordinals.fandom.com/wiki/Category:Marketplaces)
+
+### Ecosystem Map 
+
+- [CypherHunter](https://www.cypherhunter.com/en/t/bitcoin/)
+
+### Blogs 
+
+- [Ordinals Daily](https://ordinals.super.site/) 
 
 ### Other
 
