@@ -177,6 +177,8 @@
 - [Stacks](https://www.stacks.co/)
 - [Rootstock](https://rootstock.io)
 
+## Education 
+- [HeyLayer] (https://heylayer.com/learn)
 
 ---
 
