@@ -176,6 +176,7 @@
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
 - [Rootstock](https://rootstock.io)
+- [Liquid](https://liquid.net/)
 
 
 ---
