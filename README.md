@@ -146,6 +146,7 @@
 
 ### Directories
 - [BRC-20 token stats](https://brc-20.io/)
+- [BRC20Cap by GetNimbus](https://brc-20.onrender.com/)
 
 ### Dev Tooling
 - [BRC-20 Indexer](https://github.com/Next-DAO/brc20_indexer)
