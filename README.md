@@ -122,6 +122,9 @@
 - [OrdSwap](https://ordswap.io/)
 - [XDEFI Wallet](https://www.xdefi.io/)
 
+### Portfolio
+-[GetNimbus](https://getnimbus.io/)
+
 ### Other
 
 - [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
