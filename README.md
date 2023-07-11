@@ -7,33 +7,58 @@
 
 **A curated list of projects in the ordinals and inscriptions ecosystem**
 
-- [Awesome Ordinals](#awesome-ordinals)
-  - [Learning](#learning)
-    - [Documentation](#documentation)
-    - [Explanatory videos](#explanatory-videos)
-    - [Podcasts](#podcasts)
-    - [Workshops](#workshops)
-    - [Blog posts](#blog-posts)
-  - [Resources](#resources)
-    - [Inscriptions](#inscriptions)
-  - [Tools](#tools)
-    - [Creator tools](#creator-tools)
-    - [Developer tools](#developer-tools)
-    - [Analytics](#analytics)
-    - [Inscription Explorers](#explorers)
-    - [Collection Explorers](#collection-explorers)
-    - [Wallets](#wallets)
-    - [Other](#other)
-  - [Official communities](#official-communities)
-  - [Inscriptions](#inscriptions-1)
-    - [Directories](#directories)
-  - [BRC-20](#brc-20)
-  - [Trading](#trading)
-    - [Non-custodial](#non-custodial)
-    - [Custodial](#custodial)
-  - [Events & Conferences](#events)
-  - [Contributing](#contributing)
-  - [License](#license)
+## [Learning](#learning)
+
+Resources to understand ordinals and inscriptions including:
+
+- **[Documentation](#documentation):** Official documents and guides.
+- **[Videos](#videos):** Video tutorials and explanations.
+- **[Podcasts](#podcasts):** Relevant discussions and topics on ordinals.
+- **[Workshops](#workshops):** Interactive sessions for learning by doing.
+- **[Blog posts](#blogs):** Informative articles and posts.
+
+## [Resources](#resources)
+
+Specific resources in the realm of ordinals and inscriptions:
+
+- **[Inscriptions](#inscriptions):** Specialized in inscription resources.
+- **[Tools](#tools):** Tools that aid in creation, development, analytics, and exploration.
+   - [Creator tools](#creatortools): Tools for content creators in this field.
+   - [Developer tools](#devtools): Tools for developers working with ordinals and inscriptions.
+   - [Analytics](#analytics): Tools for analyzing data related to ordinals and inscriptions.
+   - [Inscription Explorers](#explorers): Tools to explore various inscriptions.
+   - [Collection Explorers](#collections): Tools to explore and manage collections of ordinals.
+   - [Wallets](#wallets): Wallets that support ordinals.
+
+## [Communities](#communities)
+
+Connect with others in the field:
+
+## [Directories](#directories)
+
+Various directories related to ordinals and inscriptions:
+
+- **[BRC-20](#brc20):** Directories related to the BRC-20 token standard.
+
+## [Trading](#trading)
+
+Information about trading ordinals:
+
+- **[Non-custodial](#non-custodial):** Trading platforms where you retain control of your private keys.
+- **[Custodial](#custodial):** Trading platforms where the platform controls the private keys.
+
+## [Events & Conferences](#events)
+
+Find and join events related to ordinals and inscriptions.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to get started.
+
+## License
+
+See [LICENSE](LICENSE) for details.
+
 
 ---
 
