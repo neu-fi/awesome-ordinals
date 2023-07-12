@@ -32,6 +32,7 @@
     - [Non-custodial](#non-custodial)
     - [Custodial](#custodial)
   - [Events & Conferences](#events)
+  - [Layer2's & Sidechains](#layer2s--sidechains)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -42,6 +43,7 @@
 ### Documentation
 
 - [Official Ordinals Documentation](https://docs.ordinals.com)
+- [BRC-20 Standard](https://domo-2.gitbook.io/brc-20-experiment/)
 
 ### Explanatory videos
 
@@ -73,12 +75,10 @@
 - [Xverse: How to Inscribe Ordinal Bitcoin NFTs: 5 Easy Steps](https://www.xverse.app/blog/how-to-inscribe-ordinal-bitcoin-nfts-5-easy-steps)
 - [nftnow: Bitcoin NFTs? Ordinals Inscriptions Explained (Finding, Buying, & More)](https://nftnow.com/guides/bitcoin-nfts-ordinals-inscriptions-explained-finding-buying-more/)
 - [Bankless: How to Mint a Bitcoin NFT](https://newsletter.banklesshq.com/p/how-to-mint-a-bitcoin-nft)
+- [Recursive Inscriptions](https://billyrestey.gitbook.io/recursive-images-on-bitcoin/)
+
 
 ## Resources
-
-### Subreddits
-
-- [Bitcoin Ordinals](https://www.reddit.com/r/BitcoinOrdinals/) 
 
 ## Tools
 
@@ -111,6 +111,10 @@
 - [Ordinals.com](https://ordinals.com)
 - [Ordiscan](https://ordiscan.com)
 - [Ordeets.com](https://ordeets.com)
+- [Ord.io](https://ord.io)
+
+### Blockchain explorers
+- [Mempool.space](https://mempool.space)
 
 ### Wallets
 
@@ -139,13 +143,18 @@
 - [Ordynals](https://ordynals.com)
 - [Rare Ordinal Directory](https://rareordinal.directory)
 
-## BRC-20
+## BRC-20 & ORC-20
 
 ### Resources
 - [BRC20 Experiment by @Domo](https://domo-2.gitbook.io/brc-20-experiment/)
 
-### Directories
+### Indexers
 - [BRC-20 token stats](https://brc-20.io/)
+- [20scan](https://20scan.com/indexer)
+
+### Analytics
+- [OrdSpy](https://ordspy.com)
+- [Ordspace](https://ordspace.org)
 
 ### Dev Tooling
 - [BRC-20 Indexer](https://github.com/Next-DAO/brc20_indexer)
@@ -172,11 +181,15 @@
 
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
+- [Inscribing Amsterdam 2023](https://inscribingamsterdam.com/)
 
 ## Layer2's & Sidechains
 - [Stacks](https://www.stacks.co/)
 - [Rootstock](https://rootstock.io)
 
+## DeFi applications
+- [BXDX](https://www.bxdx.io/)
+- [Liquidium](https://liquidium.fi/)
 
 ---
 
