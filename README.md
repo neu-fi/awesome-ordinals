@@ -178,7 +178,8 @@
 - [Best in Slot](https://bestinslot.xyz)
 - [Ord Exchange](https://ord.exchange/)
 - [Ordinals Market](https://ordinals.market)
-
+- [Ordyssey](https://ordyssey.com/)
+- 
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
 - [Inscribing Amsterdam 2023](https://inscribingamsterdam.com/)
