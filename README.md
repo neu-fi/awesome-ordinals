@@ -94,9 +94,15 @@
 - [Bordify](https://bordify.xyz/)
 
 ### Developer tools
-- [Umbrel Ord indexer](https://apps.umbrel.com/app/ordinals)
-- [OrdAPI (Ordinals Metadata HTTP API)](https://ordapi.xyz/)
+- [1Sat Ordinals API](https://docs.1satordinals.com/public-apis)
+- [Hiro Ordinal API](https://docs.hiro.so/ordinals)
+- [Magic Eden API](https://docs.magiceden.io/reference/ordinals-overview)
 - [Nodeyez Scripts](https://github.com/vicariousdrama/nodeyez/blob/main/_docs) [[1](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-ordinals.md)] [[2](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-inscriptionmempool.md)]
+- [OrdAPI (Ordinals Metadata HTTP API)](https://ordapi.xyz/)
+- [Ordinal Hub API](https://api.ordinalhub.com/docs)
+- [Ordiscan API](https://ordiscan.com/docs/api)
+- [Sats Names API](https://docs.sats.id/buildooors/indexer-and-api)
+- [Umbrel Ord indexer](https://apps.umbrel.com/app/ordinals)
 
 ### Analytics
 
