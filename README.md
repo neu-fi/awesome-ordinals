@@ -95,6 +95,7 @@
 
 ### Developer tools
 - [1Sat Ordinals API](https://docs.1satordinals.com/public-apis)
+- [Best In Slot API](https://docs.bestinslot.xyz/)
 - [Hiro Ordinal API](https://docs.hiro.so/ordinals)
 - [Magic Eden API](https://docs.magiceden.io/reference/ordinals-overview)
 - [Nodeyez Scripts](https://github.com/vicariousdrama/nodeyez/blob/main/_docs) [[1](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-ordinals.md)] [[2](https://github.com/vicariousdrama/nodeyez/blob/main/_docs/script-inscriptionmempool.md)]
