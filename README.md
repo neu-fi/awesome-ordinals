@@ -113,6 +113,7 @@
 - [Ordynals](https://ordynals.com/)
 - [OrdinalHub](https://www.ordinalhub.com/)
 - [Ordinals Wallet](https://ordinalswallet.com)
+- [Oxalus](https://oxalus.io/explore?chain=ordinals)
 
 ### Inscription Explorers
 - [Ordinals.com](https://ordinals.com)
