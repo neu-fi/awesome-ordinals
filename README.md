@@ -31,6 +31,8 @@
   - [Trading](#trading)
     - [Non-custodial](#non-custodial)
     - [Custodial](#custodial)
+    - [Marketplace Aggregators](#marketplace-aggregators)
+  - [Rare Sats](#rare-sats)
   - [Events & Conferences](#events)
   - [Layer2's & Sidechains](#layer2s--sidechains)
   - [Contributing](#contributing)
@@ -170,7 +172,6 @@
 ## Marketplace
 
 ### Non-custodial
-
 - [OrdSwap](https://ordswap.io/)
 - [OpenOrdex](https://openordex.org/)
 - [Ordinals Market](https://ordinals.market)
@@ -179,7 +180,6 @@
 - [Magic Eden](https://magiceden.io/ordinals)
 
 ### Custodial
-
 - [Emblem Vault](https://emblem.finance)
 
 ### Marketplace Aggregators
@@ -187,7 +187,12 @@
 - [Ord Exchange](https://ord.exchange/)
 - [Ordinals Market](https://ordinals.market)
 - [Ordyssey](https://ordyssey.com/)
-- 
+
+## Rare Sats
+- [Magisat](https://magisat.io)
+- [Sating](https://sating.io)
+- [SatScribe](https://satscribe.xyz)
+
 ## Events & Conferences
 - [Ordinals 2023](https://ordinals2023.com/)
 - [Inscribing Amsterdam 2023](https://inscribingamsterdam.com/)
