@@ -135,6 +135,7 @@
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
 - [XDEFI Wallet](https://www.xdefi.io/)
+- [Earth Wallet](https://earthwallet.io)
 
 ### Other
 
