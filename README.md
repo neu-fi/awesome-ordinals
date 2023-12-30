@@ -135,6 +135,7 @@
 - [Xverse](https://xverse.app)
 - [OrdSwap](https://ordswap.io/)
 - [XDEFI Wallet](https://www.xdefi.io/)
+- [Particle Network (BTC Connect)](https://particle.network)
 
 ### Other
 
