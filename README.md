@@ -137,6 +137,9 @@
 - [XDEFI Wallet](https://www.xdefi.io/)
 - [Earth Wallet](https://earthwallet.io)
 
+### Chrome Extension
+- [Runes For Mempool](https://chromewebstore.google.com/detail/runes-for-mempool/gladlkdaclmeneojkbbfnoelhbjpkkhm)
+
 ### Other
 
 - [Nodeyez Inscription parser/viewer](https://github.com/vicariousdrama/nodeyez/blob/main/docs/script-ordinals.md)
