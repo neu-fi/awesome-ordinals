@@ -179,6 +179,7 @@
 - [Ordinals Cheap](https://ordinals.cheap)
 - [Generative.xyz](https://generative.xyz)
 - [Magic Eden](https://magiceden.io/ordinals)
+- [The Function Gallery](https://function.gallery)
 
 ### Custodial
 - [Emblem Vault](https://emblem.finance)
